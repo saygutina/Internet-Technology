@@ -25,3 +25,9 @@
 
 ## Скриншот главной страницы сайта
 ![scr](https://github.com/saygutina/Internet-Technology/blob/master/Снимок%20экрана%202017-11-02%20в%2023.54.43.png)
+
+### Ссылки на официальную документацию:
+
+[Руководство по PHP](http://php.net/manual/ru/index.php)
+
+[Русская документация по jQuery.ajax](https://jquery-docs.ru/jQuery.ajax/)
