@@ -1,2 +1,3 @@
 # Приложение-задачник
-Completed assignments for the course Internet technologies.
+
+## Ссылка на страницу приложения: http://it.ansee.su/taskmanager/
