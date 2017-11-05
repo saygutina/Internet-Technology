@@ -5,7 +5,7 @@
 ## Участники проекта:
 
 [Блохин Михаил](https://github.com/mishablokhin) - проект-менеджер и проектировщик
-([сайт](http://paul.1gb.ru/stankin/oop/sandbox/idb-13-13/Blokhin/) | [старая статья](https://github.com/stankin/oop/wiki/UML.-Диаграмма-деятельности) | [новая статья] (https://github.com/stankin/inet-2017/wiki/Введение-в-React-и-его-основные-преимущества))
+([сайт](http://paul.1gb.ru/stankin/oop/sandbox/idb-13-13/Blokhin/) | [старая статья](https://github.com/stankin/oop/wiki/UML.-Диаграмма-деятельности) | [новая статья](https://github.com/stankin/inet-2017/wiki/Введение-в-React-и-его-основные-преимущества))
 
 [Сайгутина Ирина](https://github.com/saygutina) - ведущий программист, frontend-разработчик
 ([персональная страница](http://it.ansee.su))
